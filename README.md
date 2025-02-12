@@ -3,6 +3,7 @@ Java Full Stack Developer with 6+ years of experience in Java, Spring Boot, Micr
 
 ### Work Experience:
 Java FullStack developer @ UPS (May 2024 - Present)
+
 Java FullStack developer @StateFarm (Feb 2023 - June 2024)
 
 
