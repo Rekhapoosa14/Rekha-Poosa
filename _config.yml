@@ -1,12 +1,5 @@
-#title: "Java FullStack Developer"
-description: "Showcasing my Java projects, skills, and experience."
-#baseurl: ""
-#url: "https://yourgithubusername.github.io"
-theme: minima  # You can change this to another Jekyll theme
-
-# Author Information
-author:
-  name: "Rekha Poosa"
-  email: "rekhapoosa99@gmail.com"
-  github: "Rekhapoosa14"
-  linkedin: "https://www.linkedin.com/in/rekha-poosa-ba477934b/"
+Title: Rekha Poosa
+#logo: /assets/img/headshot_circle.png
+description: text below image 
+show_downloads: true
+theme: jekyll-theme-minimal
