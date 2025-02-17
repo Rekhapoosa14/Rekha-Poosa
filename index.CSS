@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: hsl(191, 81%, 49%);
+    background-color: rgb(24, 226, 145);
 }
 .container {
     width: 80%;
@@ -14,8 +14,8 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background: rgb(218, 184, 184);
-    color: rgb(139, 7, 7);
+    background: rgb(22, 13, 14);
+    color: rgb(60, 17, 202);
 }
 h2 {
     color: #333333;
