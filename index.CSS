@@ -7,18 +7,18 @@ body {
 .container {
     width: 80%;
     margin: auto;
-    background: hsl(0, 0%, 100%);
+    background: hsl(139, 59%, 81%);
     padding: 20px;
-    box-shadow: 0px 0px 10px rgb(128, 128, 128);
+    box-shadow: 0px 0px 10px rgb(229, 65, 65);
 }
 header {
     text-align: center;
     padding: 20px;
-    background: rgb(249, 246, 246);
+    background: rgb(218, 184, 184);
     color: rgb(139, 7, 7);
 }
 h2 {
-    color: #333;
+    color: #333333;
 }
 .section {
     margin-bottom: 20px;
